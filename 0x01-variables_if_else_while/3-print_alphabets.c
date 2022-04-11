@@ -17,4 +17,4 @@ putchar(firstCletter);
 }
 putchar(10);
 return (0);
-}
+ }
