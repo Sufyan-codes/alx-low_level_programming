@@ -13,4 +13,4 @@ putchar(firstLetter);
 }
 putchar(10);
 return (0);
-}
+  }
