@@ -34,4 +34,4 @@ u = (p + o) % 1000000000;
 }
 printf("%lu%lu\n", m, u);
 return (0);
- }
+}
