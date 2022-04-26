@@ -28,4 +28,5 @@ char *_strpbrk(char *s, char *accept)
 			}
 		}
 	}
-	return (p);}
+	return (p);
+}
