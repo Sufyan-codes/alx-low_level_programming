@@ -88,5 +88,4 @@ exit(98);
 print_int(_atoi(argv[1]) * _atoi(argv[2]));
 _putchar('\n');
 
-return (0);
-}
+return (0);}
