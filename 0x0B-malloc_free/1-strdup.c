@@ -41,5 +41,4 @@ char *_strdup(char *str)
 	}
 	nstr[len] = '\0';
 	return (nstr);
-
 }
